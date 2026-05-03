@@ -1,2 +1,2 @@
 # mentallurgy
-Dejan's me(n)tallurgy
+Dejan's mentallurgy
